@@ -1,0 +1,9 @@
+name: memote_env
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+  - ursky
+dependencies:
+  - memote
+prefix: /home/seyis/miniconda3/envs/memote_env

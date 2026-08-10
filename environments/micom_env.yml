@@ -1,0 +1,15 @@
+name: micom_mac
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - cobra
+  - swiglpk
+  - optlang
+  - gurobi=11.0.3
+  - matplotlib
+  - openpyxl
+prefix: /Users/mihribanseyis/miniconda3/envs/micom_mac

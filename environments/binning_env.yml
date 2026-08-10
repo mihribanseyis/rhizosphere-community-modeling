@@ -1,0 +1,16 @@
+name: binning-env
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+  - ursky
+dependencies:
+  - concoct
+  - maxbin2
+  - metabat2
+  - das_tool
+  - vsearch
+  - usearch
+  - drep
+  - seqtk
+prefix: /home/seyis/miniconda3/envs/binning-env

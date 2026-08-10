@@ -1,0 +1,10 @@
+name: seqkit_env
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+  - ursky
+dependencies:
+  - seqkit
+  - seqtk
+prefix: /home/seyis/miniconda3/envs/seqkit_env

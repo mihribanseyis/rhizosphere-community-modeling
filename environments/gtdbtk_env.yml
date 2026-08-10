@@ -1,0 +1,11 @@
+name: gtdbtk-2.1.1
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+  - ursky
+dependencies:
+  - gtdbtk=2.4.0
+variables:
+  GTDBTK_DATA_PATH: /work/seyis/bin/gtdbtk/release220
+prefix: /home/seyis/miniconda3/envs/gtdbtk-2.1.1

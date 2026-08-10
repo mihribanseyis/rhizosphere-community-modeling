@@ -1,0 +1,14 @@
+name: qc_gems
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+  - ursky
+dependencies:
+  - cobra
+  - lxml
+  - pandas
+  - python=3.10
+  - importlib_resources
+  - numpy[version='<2']
+prefix: /home/seyis/miniconda3/envs/qc_gems
